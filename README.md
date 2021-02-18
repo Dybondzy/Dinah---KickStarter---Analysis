@@ -4,7 +4,7 @@
 ### and GB Musical Goals and Pledges
 ### Using graphs to depict outcomes of Campaign Kickstarters
 
-![Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
+![Analysis/Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
 
 Notice from the diagram/chart that in May:
 * There was an increase in Successful Outcomes

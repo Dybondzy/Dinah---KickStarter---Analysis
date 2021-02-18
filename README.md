@@ -2,7 +2,8 @@
 ## Analysis of Kickstarter Campaigns
 ### Using Examples of US Successful and Failed Kickstarter Plays Goals and Pledges
 ### and GB Musical Goals and Pledges
-### Using graphs to depict outcomes of Campaign Kickstarters
+
+Using graphs to depict outcomes of Campaign Kickstarters:
 
 ![Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
 

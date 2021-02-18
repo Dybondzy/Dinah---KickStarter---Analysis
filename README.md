@@ -9,6 +9,6 @@ Notice from the diagram/chart that in May:
 * There was a relatively lower increase in failed outcomes
 * There was slight decrease in canceled outcomes.
 The attached file shows several different analysis:
-[filename](path/to/filename.xlxs
+[Analysis/data-1-1-3-StarterBook.xlsx](Dinah---KickStarter---Analysis/data-1-1-3-StarterBook.xlsx)
 
 Thank You, Dinah

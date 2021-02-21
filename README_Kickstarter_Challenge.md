@@ -105,7 +105,7 @@ Greater than 50000 	2		14		0		16		13%			88%		0%
 
 
 Theater_Outcomes_vs_Launch.png 
-[Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
+[Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals

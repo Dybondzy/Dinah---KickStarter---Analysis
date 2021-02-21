@@ -5,7 +5,7 @@
 
 Using graphs to depict outcomes of Campaign Kickstarters:
 
-![Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
+![Outcome_Based_Launch_Date.png](Dinah---KickStarter---Analysis/Outcome_Based_Launch_Date.png)
 
 [Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
 

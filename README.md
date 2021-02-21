@@ -5,6 +5,8 @@
 
 Using graphs to depict outcomes of Campaign Kickstarters:
 
+![Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
+
 [Outcome Based Launch Date.png](Dinah---KickStarter---Analysis/Outcome Based Launch Date.png)
 
 Notice from the diagram/chart that in May:

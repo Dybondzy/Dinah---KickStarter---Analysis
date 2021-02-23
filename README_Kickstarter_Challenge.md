@@ -67,7 +67,7 @@ Percentage Canceled
 
 
 Theater_Outcomes_vs_Launch.png 
-[Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
+[Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -79,7 +79,7 @@ Theater_Outcomes_vs_Launch.png
 
 
 Outcomes_vs_Goals.png
-[Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
+[Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -105,7 +105,7 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 +++ 	 This was all done and submitted
 
 Theater_Outcomes_vs_Launch.png 
-[Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
+[Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
 
 
 #### Deliverable 2 Requirements
@@ -119,9 +119,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 +++ 	 This was all done and submitted
 Outcomes_vs_Goals.png
-[Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
 [Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
-[Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md](Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md)
 
 
 ### Your written analysis must contain three sections:
@@ -180,8 +178,7 @@ c.	There is a summary of the limitations of the dataset, and there is a recommen
 +++ 	 This is all done and submitted
 
 READEME_Kickstarter_Challenge.md
-[Analysis/READEME_Kickstarter_Challenge.md](Dinah---KickStarter---Analysis/READEME_Kickstarter_Challenge.md)
-
+[Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md](Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md)
 
 5.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -209,5 +206,5 @@ READEME_Kickstarter_Challenge.md
 
 +++ Final File Submitted is compressed and renamed from KickStarter_Challenge to KickStarter_Challenge - DinahBondzie
 
-[Analysis/KickStarter_Challenge - DinahBondzie.xlsx](Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
+[Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx](Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
 

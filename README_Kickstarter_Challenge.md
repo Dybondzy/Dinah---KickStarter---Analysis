@@ -7,10 +7,7 @@
 
 ## Overview of Project
 
-Louise’s play Fever came close to its fundraising goal in a short amount of time. 
-Now, she wants to know how different campaigns fared in relation to their launch dates 
-and their funding goals. Using the Kickstarter dataset visualize campaign outcomes based on their launch dates 
-and their funding goals. Submit a written report based on your analysis and the visualizations.
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset visualize campaign outcomes based on their launch dates and their funding goals. This is a report based on your analysis and the visualizations.
 
 
 ### Purpose
@@ -41,25 +38,7 @@ Deliverable 3: A written analysis of the results (README_Kickstarter_Callenge.md
 11.	Confirm that your pivot table looks like this:
 12.	Filter the "Parent Category" to show only the data for "theater."
 13.	Sort the campaign outcomes in descending order so "successful" is first.
-14.	Confirm that your final pivot table looks like the following:
-
-
-Count of outcomes	Column Labels			
-Row Labels	successful	failed	canceled	Grand Total
-Jan		56		33		7	96
-Feb		71		39		3	113
-Mar		56		33		3	92
-Apr		71		40		2	113
-May		111		52		3	166
-Jun		100		49		4	153
-Jul		87		50		1	138
-Aug		72		47		4	123
-Sep		59		34		4	97
-Oct		65		50			115
-Nov		54		31		3	88
-Dec		37		35		3	75
-Grand Total	839		493		37	1369
-
+14.	Confirm that your final pivot table looks like the given example
 
 
 ### Deliverable 2: Outcomes Based on Goals Chart
@@ -77,25 +56,8 @@ Percentage Successful
 Percentage Failed
 Percentage Canceled
 
-4.	In the “Goal” column, create the following dollar-amount ranges so projects can be grouped 
-based on their goal amount.
-5.	Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created in Step 3, 
-and on the "Subcategory" column using "plays" as the criteria.
-
-Goal		Number Successful	Number Failed	Number Canceled	Total Projects	Percentage Successful	Percentage Failed	Percentage Canceled
-Less than 1000	141			45		0		186		76%			24%			0%
-1000 to 4999	388			146		0		534		73%			27%			0%
-5000 to 9999	93			76		0		169		55%			45%			0%
-10000 to 14999	39			33		0		72		54%			46%			0%
-15000 to 19999	12			12		0		24		50%			50%			0%
-20000 to 24999	9			11		0		20		45%			55%			0%
-25000 to 29999	1			4		0		5		20%			80%			0%
-30000 to 34999	3			8		0		11		27%			73%			0%
-35000 to 39999	4			2		0		6		67%			33%			0%
-40000 to 44999	2			1		0		3		67%			33%			0%
-45000 to 49999	0			1		0		1		0%			100%			0%
-Greater than 50000 	2		14		0		16		13%			88%		0%
-
+4.	In the “Goal” column, create the following dollar-amount ranges so projects can be grouped based on their goal amount.
+5.	Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created in Step 3, and on the "Subcategory" column using "plays" as the criteria.
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -105,7 +67,7 @@ Greater than 50000 	2		14		0		16		13%			88%		0%
 
 
 Theater_Outcomes_vs_Launch.png 
-[Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
+[Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -123,15 +85,11 @@ Outcomes_vs_Goals.png
 ### Challenges and Difficulties Encountered
 +++	In Deliverable 1, Theater_Outcomes_vs_Launch, the Goal: Greater than 50000, actually includes 50,000, otherwise the value for 50,000 is missen.
 
-Theater_Outcomes_vs_Launch.png 
-[Analysis/Theater_Outcomes_vs_Launch.png](Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png)
+
++++	In Deliverable 2, Outcomes_vs_Goals, it tooks a few trials to get used to using the COUNTIFS() with the multiple criteria (notice the S at the end of COUNTIFS)
 
 
-+++	In Deliverable 2, Outcomes_vs_Goals, it tooks a few trials to get used to using the COUNTIFS() with the multiple criteria.
-
-Outcomes_vs_Goals.png
-[Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
-
+## Results
 
 ####  Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
@@ -164,18 +122,33 @@ Outcomes_vs_Goals.png
 [Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
 
 
-## Results
-
-
-Your written analysis must contain three sections:
+### Your written analysis must contain three sections:
 
 1.	Overview of Project: Explain the purpose of this analysis.
 2.	Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 3.	Results: Answer the following questions in complete and coherent sentences.
 4.	What are two conclusions you can draw about the Theater Outcomes by Launch Date?
++++	The 2 conclusions that can be drawn about the Teather Outcomes by Launch Date are:
+	a. May is a good time for Theater
+	b. October is a bad time for Theater
+
+
 5.	What can you conclude about the Outcomes based on Goals?
++++	The Outcome on Goals that ca be concluded is
+	a. To be successfull, have goals from less than 1000 to 5,000
+	b. To fail, your goals are around 1,000 to 5,000
+	c. If your goal is between 1000 and 5000, you have chance a 2 in 3 chance of success
+
+
 6.	What are some limitations of this dataset?
++++	The limitations of this dataset we are working with data for Theater and Plays
+
+
 7.	What are some other possible tables and/or graphs that we could create?
++++	The possible tables and graphs that could be created at:
+	a. Outcome based on goals for drama, musical, or people
+	b. Launch date and drama, musical, people
+	c. Theater can include plays and having data on other types of theater, like drama, musical, and people, gives a broader picture
 
 
 ### Deliverable 3 Requirements
@@ -202,18 +175,37 @@ a.	Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
 b.	One conclusion is made about the Outcomes based on Goals (2 pt).
 c.	There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).
 
-+++ 	 This was all done and submitted
-READEME_Kickstarter_Challenge.png
++++ 	 This is all done and submitted
+
+READEME_Kickstarter_Challenge.md
 [Analysis/READEME_Kickstarter_Challenge.md](Dinah---KickStarter---Analysis/READEME_Kickstarter_Challenge.md)
 
 
 5.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
++++	The 2 conclusions that can be drawn about the Teather Outcomes by Launch Date are:
+	a. May is a good time for Theater
+	b. October is a bad time for Theater	
+
 - What can you conclude about the Outcomes based on Goals?
++++	The Outcome on Goals that ca be concluded is
+	a. To be successfull, have goals from less than 1000 to 5,000
+	b. To fail, your goals are around 1,000 to 5,000
+	c. If your goal is between 1000 and 5000, you have chance a 2 in 3 chance of success
+	
+
 - What are some limitations of this dataset?
++++	The limitations of this dataset we are working with data for Theater and Plays	
+
 - What are some other possible tables and/or graphs that we could create?
++++	The possible tables and graphs that could be created at:
+	a. Outcome based on goals for drama, musical, or people
+	b. Launch date and drama, musical, people
+	c. Theater can include plays and having data on other types of theater, like drama, musical, and people, gives a broader picture
+	
 
 
 +++ Final File Submitted is compressed and renamed from KickStarter_Challenge to KickStarter_Challenge - DinahBondzie
 
 [Analysis/KickStarter_Challenge - DinahBondzie.xlsx](Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
+

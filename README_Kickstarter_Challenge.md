@@ -120,6 +120,8 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 +++ 	 This was all done and submitted
 Outcomes_vs_Goals.png
 [Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
+[Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png](Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png)
+[Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md](Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md)
 
 
 ### Your written analysis must contain three sections:

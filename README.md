@@ -47,7 +47,7 @@ Create a line chart from the pivot table to visualize the relationship between o
 Add a title to the line chart, and save it as Theater_Outcomes_vs_Launch.png to the resources folder.
 Theater_Outcomes_vs_Launch.png 
 ![]
-Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
+https://github.com/Dybondzy/Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
 
 Analysis of Outcomes Based on Goals
 Use the SUM() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row.
@@ -56,7 +56,7 @@ Create a line chart titled "Outcomes Based on Goal" to visualize the relationshi
 Confirm that your line chart looks like the following, and save it as Outcomes_vs_Goals.png to the resources folder.
 Outcomes_vs_Goals.png 
 ![]
-Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
+https://github.com/Dybondzy/Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
 
 Challenges and Difficulties Encountered
 +++ In Deliverable 1, Theater_Outcomes_vs_Launch, the Goal: Greater than 50000, actually includes 50,000, otherwise the value for 50,000 is missen.
@@ -78,10 +78,10 @@ A line chart is created showing the number of successful, failed, or canceled pr
 
 Theater_Outcomes_vs_Launch.png 
 ![]
-Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
+https://github.com/Dybondzy/Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
 Outcomes_vs_Goals.png 
 ![]
-Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
+https://github.com/Dybondzy/Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
@@ -91,7 +91,7 @@ The COUNTIFS() function is used to populate the "Number Successful," "Number Fai
 The SUM() function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column (3 pt).
 The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns (3 pt).
 A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).
-+++ This was all done and submitted Outcomes_vs_Goals.png Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
++++ This was all done and submitted 
 
 Your written analysis must contain three sections:
 Overview of Project: Explain the purpose of this analysis.
@@ -121,7 +121,7 @@ Results a. Two conclusions are made about the Theater Outcomes by Launch Date (2
 
 READEME_Kickstarter_Challenge.md 
 ![]
-Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md
+https://github.com/Dybondzy/Dinah---KickStarter---Analysiss/README_Kickstarter_Challenge.md
 
 What are two conclusions you can draw about the Outcomes based on Launch Date? +++ The 2 conclusions that can be drawn about the Teather Outcomes by Launch Date are: a. May is a good time for Theater b. October is a bad time for Theater
 
@@ -133,5 +133,5 @@ What are some other possible tables and/or graphs that we could create? +++ The 
 
 +++ Final File Submitted is compressed and renamed from KickStarter_Challenge to KickStarter_Challenge - DinahBondzie
 
-![Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx]
-(Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
+![]
+https://github.com/Dybondzy/Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx

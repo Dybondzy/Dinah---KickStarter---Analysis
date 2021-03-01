@@ -45,7 +45,8 @@ Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," a
 Analysis of Outcomes Based on Launch Date
 Create a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 Add a title to the line chart, and save it as Theater_Outcomes_vs_Launch.png to the resources folder.
-Theater_Outcomes_vs_Launch.png Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
+Theater_Outcomes_vs_Launch.png 
+![Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png]
 
 Analysis of Outcomes Based on Goals
 Use the SUM() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row.
@@ -72,7 +73,8 @@ The row labels are changed to display the months of the year, and the campaign o
 A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).
 +++ This was all done and submitted
 
-Theater_Outcomes_vs_Launch.png Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
+Theater_Outcomes_vs_Launch.png 
+![Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png]
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
@@ -110,7 +112,8 @@ Results a. Two conclusions are made about the Theater Outcomes by Launch Date (2
 
 +++ This is all done and submitted
 
-READEME_Kickstarter_Challenge.md Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md
+READEME_Kickstarter_Challenge.md 
+![Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md]
 
 What are two conclusions you can draw about the Outcomes based on Launch Date? +++ The 2 conclusions that can be drawn about the Teather Outcomes by Launch Date are: a. May is a good time for Theater b. October is a bad time for Theater
 

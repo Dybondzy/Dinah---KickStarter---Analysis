@@ -46,14 +46,17 @@ Analysis of Outcomes Based on Launch Date
 Create a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 Add a title to the line chart, and save it as Theater_Outcomes_vs_Launch.png to the resources folder.
 Theater_Outcomes_vs_Launch.png 
-![Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png]
+![]
+Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
 
 Analysis of Outcomes Based on Goals
 Use the SUM() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row.
 Calculate the percentage of successful, failed, and canceled projects for each row.
 Create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 Confirm that your line chart looks like the following, and save it as Outcomes_vs_Goals.png to the resources folder.
-Outcomes_vs_Goals.png Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
+Outcomes_vs_Goals.png 
+![]
+Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
 
 Challenges and Difficulties Encountered
 +++ In Deliverable 1, Theater_Outcomes_vs_Launch, the Goal: Greater than 50000, actually includes 50,000, otherwise the value for 50,000 is missen.
@@ -74,7 +77,11 @@ A line chart is created showing the number of successful, failed, or canceled pr
 +++ This was all done and submitted
 
 Theater_Outcomes_vs_Launch.png 
-![Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png]
+![]
+Dinah---KickStarter---Analysis/Theater_Outcomes_vs_Launch.png
+Outcomes_vs_Goals.png 
+![]
+Dinah---KickStarter---Analysis/Outcomes_vs_Goals.png
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
@@ -113,7 +120,8 @@ Results a. Two conclusions are made about the Theater Outcomes by Launch Date (2
 +++ This is all done and submitted
 
 READEME_Kickstarter_Challenge.md 
-![Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md]
+![]
+Dinah---KickStarter---Analysis/README_Kickstarter_Challenge.md
 
 What are two conclusions you can draw about the Outcomes based on Launch Date? +++ The 2 conclusions that can be drawn about the Teather Outcomes by Launch Date are: a. May is a good time for Theater b. October is a bad time for Theater
 
@@ -125,4 +133,5 @@ What are some other possible tables and/or graphs that we could create? +++ The 
 
 +++ Final File Submitted is compressed and renamed from KickStarter_Challenge to KickStarter_Challenge - DinahBondzie
 
-[Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx](Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
+![Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx]
+(Dinah---KickStarter---Analysis/KickStarter_Challenge - DinahBondzie.xlsx)
